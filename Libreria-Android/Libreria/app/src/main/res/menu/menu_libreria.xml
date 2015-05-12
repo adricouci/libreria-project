@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".BookDetailActivity">
+    <item
+        android:id="@+id/reviewsMenuItem"
+        android:title="Añadir Reviews"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:showAsAction="never" />
+
+</menu>
